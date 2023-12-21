@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @loveinb.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Vue.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by email 2657105520@qq.com.
+
+- hello, github.
 
 <!---
 loveinb/loveinb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
